@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDE
+.spyder-py3/
+.vscode/
+.idea/
+
+# Datasets and downloads (large)
+data/
+core50_128x128/
+cifar-100-python/
+*.tar.gz
+*.zip
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
